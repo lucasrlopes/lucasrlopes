@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Lucas 👋
 
-<!--
-**lucasrlopes/lucasrlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de **Dados, BI e IA** com 4 anos de experiência em **auditoria e finanças na PwC**, transformando dados financeiros complexos em insights para a tomada de decisão.
 
-Here are some ideas to get you started:
+- 📊 Foco: análise de dados, BI e soluções com IA generativa
+- 🤖 IA e automação: automação de rotinas de extração e tratamento de dados e uso de IA para acelerar processos
+- 💼 Background: auditoria, FP&A e finanças corporativas
+- 🎓 Pós-graduação em Data Analytics e IA Aplicada a Negócios (FECAP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ferramentas
+**Dados e BI:** SQL · Python (pandas) · Power BI · Power Query · Excel
+**Automação:** Alteryx · Macros e VBA · Access
+**Cloud e engenharia:** Databricks · Azure · Git
+
+## 📂 Projetos
+Em construção. Em breve: análise SQL do e-commerce Olist, People Analytics, dashboard de FP&A e projetos com LLM.
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/lucas-rodrigues-lopes-440976184)
